@@ -252,13 +252,3 @@ header .logo img{
         bottom: 30px;
     }
 }
-@media (max-width:375px)
-    {
-        header{
-            padding: 10px;
-        }
-        .search{
-            position:relative;
-            width: calc(100% -20px);
-        }
-}
